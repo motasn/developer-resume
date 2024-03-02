@@ -81,3 +81,129 @@ font-weight: 400;
 line-height: 30px; 
 margin: 5px;
 }
+
+/* section style */
+.about{
+    border-radius: 10px;
+background: #FFF8F3;
+text-align: center;
+margin:  30px 100px;
+padding: 40px 20px;
+
+}
+.about-description{
+ color:  #757575;
+text-align: center;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+ }
+ .about-info-contener{
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .about-info-titel{
+text-align: center;
+ }
+ .info-p{
+    color:  #474747;
+font-size: 20px;
+padding-right: 5px; ;
+
+ }
+
+.info-titel  {
+    color:  #757575;
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 250;
+    }
+/* what i do style */
+    .skill-description{
+        padding: 100px 220px;
+
+    }
+    
+    .skill-titel{
+ color:  #181818;
+text-align: center;
+}
+
+.skill-descrip{
+    color:  #757575;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+padding:10px ;
+}
+
+.skill-contener{
+    display: flex;
+   
+}
+.skill{
+    border-radius: 5px;
+background: #FFF;
+padding: 25px;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+ .titel-skill{
+    padding: 15px;
+}
+
+.titel-description{
+    color:  #757575;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+/* resume style */
+.resume-contaner {
+  display: flex;
+  padding:40px 80px ;
+  gap: 60px;
+}
+
+.resume-titel{
+    text-align: center;
+}
+
+.item-titel{color: #474747
+    font-size: 20px;
+    font-weight: 700;
+    }
+
+   .resume-item-des {color:  #757575;
+        font-size: 15px;
+        font-weight: 600;
+       }
+
+       .resume-item-inst  {
+        color:  #757575
+font-size:10px;
+font-weight: 400
+       }
+       .down{
+        text-align: center;
+        margin: 40px; ;
+       }
+
+
+       /*footer style  */
+       .footer-contener{
+        display: flex;
+        padding:40px 80px ;
+        background: #FFF8F3;
+    }
+
+    .footer-colum{
+        padding:40px ;
+    }
+ .you-name, .you-email{
+    padding:15px ;
+ }
+    .sub{
+        text-align:right;
+    }
